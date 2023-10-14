@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title_name_main">Jennifer Doe</string>
+    <string name="subtitle_main">Android Developer Extraordinaire</string>
+    <string name="phone_number_main">+11223344455</string>
+    <string name="socmed_main">\@androiddev</string>
+    <string name="email_main">androiddev@gmail.com</string>
+</resources>
